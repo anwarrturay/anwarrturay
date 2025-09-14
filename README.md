@@ -15,13 +15,13 @@ Transforming abstract ideas into **beautiful, functional, and user-centered digi
 
 ## 💡 Skills  
 **Languages & Frameworks:**  
-JavaScript | TypeScript | Python | HTML | CSS | Node.js | Express.js | React.js | Redux Toolkit | NestJs | NextJs | React Native
+JavaScript | TypeScript | Python | HTML | CSS | Node.js | Express.js | React.js | Redux Toolkit | NestJs | NextJs | React Native | Mongoose | Prisma
 
 **Databases:**  
-MongoDB | MySQL  
+MongoDB | MySQL  | PostgreSQL
 
 **Tools & Design:**  
-Figma | Adobe Photoshop | Adobe Illustrator | @react-pdf/renderer | Tailwind CSS  
+Figma | @react-pdf/renderer | Tailwind CSS  
 
 **Other Skills:**  
 - REST API Development  
