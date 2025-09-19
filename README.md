@@ -36,6 +36,7 @@ Figma | @react-pdf/renderer | Tailwind CSS
 - **WasteWise** – Waste management app with education and awareness features.  
 - **Loyalty Rewards Platform** – Real-time multi-tier rewards with CRM integration.
 - **Miskul** - A standard University Result generator checker.
+- **KlinMakeni** - A waste management system that's design to eradicate and incentivize citizens in makeni about wastes.
 
 *(Check my pinned repositories for more!)*
 
